@@ -5,6 +5,12 @@
 	"keywords": ["shopify","api"],
 	"homepage": "https://github.com/phpish/shopify",
 	"license": "MIT",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/mregula/http"
+      }
+    ],
 	"authors": [
 		{
 			"name": "Sandeep Shetty",
